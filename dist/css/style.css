@@ -1,0 +1,114 @@
+
+
+    .key {
+  color: black;
+  font-weight: bold;
+    } 
+
+    .links {
+      color: #5255b4;
+    }
+
+    .italic {
+
+      font-style: italic;
+    position: centre;
+  }
+
+    .center {
+
+    text-align: center;
+  }
+
+    header {
+      height: 200px;
+      position: centre;
+      text-align: center;
+      background: url('../images/neuron.jpg');
+      background-size: cover;
+      color: black;
+      max-width: 1000px;
+    }
+
+    body {
+
+      margin: 0;
+      padding: 0;
+      padding-top: 10px;
+      text-align:center;
+    }
+    
+    #centered
+    {
+      width: 1000px;
+      text-align: left;
+      border: 0px;
+      padding: 0;
+      margin: 0 auto;
+      margin-bottom: 40px;
+    }
+
+
+    a {
+      color: white;
+    }
+    h1 {
+      font-size: 50px;
+    }
+
+    header ul {
+      padding: 10px;
+      background: rgba(0,0,0,0.5);
+      font-size: 20px;
+      max-width: 1000px
+    }
+    header li {
+      display: inline;
+      padding: 10px 10px 10px 10px;
+    }
+    article {
+      width: 600px;
+      padding: 20px;
+    }
+    
+    @media (max-width: 1000px) {
+
+      li {
+        padding: 5px;
+        display: block;
+      }
+    }
+
+    p {
+     text-align: justify;
+    }
+
+    .pubs p{
+       padding-left: 2em;
+      text-indent: -2em;
+    }
+
+    .center-h2{
+      text-align: center;   
+    }
+
+    #img-mrc{
+      float: right;
+    }
+
+     .pub-links a{
+      color: #5255b4;
+      font-weight: bold;
+     }
+     
+
+    .pub-links li{
+      display: inline;
+    } 
+
+    .purple-text{
+      color:#5255b4;
+    }
+
+
+
