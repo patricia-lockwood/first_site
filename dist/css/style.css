@@ -109,6 +109,10 @@
     .purple-text{
       color:#5255b4;
     }
-
+    
+IMG.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
 
 
